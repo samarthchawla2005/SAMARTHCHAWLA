@@ -42,6 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthchawla2005&" alt="samarthchawla2005" /></p>
 
-
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=samarthchawla2005)](https://git.io/streak-stats)
